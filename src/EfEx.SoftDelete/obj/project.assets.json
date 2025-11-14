@@ -544,7 +544,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "/home/mostafa/projects/EfEx/EfEx.SoftDelete/src/EfEx.SoftDelete/EfCoreSoftDelete.csproj",
-      "projectName": "EfCore.SoftDelete",
+      "projectName": "EntityFramework.SoftDelete",
       "projectPath": "/home/mostafa/projects/EfEx/EfEx.SoftDelete/src/EfEx.SoftDelete/EfCoreSoftDelete.csproj",
       "packagesPath": "/home/mostafa/.nuget/packages/",
       "outputPath": "/home/mostafa/projects/EfEx/EfEx.SoftDelete/src/EfEx.SoftDelete/obj/",

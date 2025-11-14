@@ -16,7 +16,7 @@ using System.Reflection;
     "ers. Automatically converts hard deletes to soft deletes and filters out deleted" +
     " entities from queries."))]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d5e0c18ebdadd20129d5912743b009ac0c39d97")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+769825d3a79df3a7377cd23eb292d1fb03805150")]
 [assembly: System.Reflection.AssemblyProductAttribute("EfCoreSoftDelete")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EfCoreSoftDelete")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

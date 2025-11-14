@@ -1,4 +1,4 @@
-# EfCore.SoftDelete
+# EfEx.SoftDelete
 
 A lightweight Entity Framework Core extension that provides automatic soft delete functionality. This package automatically converts hard deletes to soft deletes and filters out deleted entities from queries.
 
@@ -16,13 +16,13 @@ A lightweight Entity Framework Core extension that provides automatic soft delet
 Install the package via NuGet:
 
 ```bash
-dotnet add package EfCore.SoftDelete
+dotnet add package EfEx.SoftDelete
 ```
 
 Or via Package Manager Console:
 
 ```powershell
-Install-Package EfCore.SoftDelete
+Install-Package EfEx.SoftDelete
 ```
 
 ## Quick Start

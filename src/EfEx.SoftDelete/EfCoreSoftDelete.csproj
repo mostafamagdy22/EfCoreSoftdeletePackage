@@ -8,6 +8,14 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>EfCore.SoftDelete</PackageId>
     <Version>1.0.0</Version>
+    <Authors>mostafaaa</Authors>
+    <Description>Entity Framework Core soft delete implementation with interceptors and query filters. Automatically converts hard deletes to soft deletes and filters out deleted entities from queries.</Description>
+    <PackageTags>EntityFrameworkCore;EFCore;SoftDelete;Delete;Interceptor</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/mostafamagdy22/EfCoreSoftdeletePackage</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageProjectUrl>https://github.com/mostafamagdy22/EfCoreSoftdeletePackage</PackageProjectUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 
   <ItemGroup>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>EfEx.SoftDelete</id>
+    <version>1.0.0</version>
+    <authors>mostafaaa</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/mostafamagdy22/EfCoreSoftdeletePackage</projectUrl>
+    <description>Entity Framework Core soft delete implementation with interceptors and query filters. Automatically converts hard deletes to soft deletes and filters out deleted entities from queries.</description>
+    <tags>EntityFrameworkCore EFCore SoftDelete Delete Interceptor</tags>
+    <repository type="git" url="https://github.com/mostafamagdy22/EfCoreSoftdeletePackage" commit="5a6cb847d96aef5e8bf3058ebccbe744b0e56cd6" />
+    <dependencies>
+      <group targetFramework="net9.0">
+        <dependency id="Microsoft.EntityFrameworkCore" version="9.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/home/mostafa/projects/EfEx/EfEx.SoftDelete/src/EfEx.SoftDelete/bin/Release/net9.0/EfCoreSoftDelete.dll" target="lib/net9.0/EfCoreSoftDelete.dll" />
+    <file src="/home/mostafa/projects/EfEx/EfEx.SoftDelete/README.md" target="/README.md" />
+  </files>
+</package>
